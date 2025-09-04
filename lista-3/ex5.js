@@ -4,5 +4,5 @@ let n2 = input.questionInt("Digite um numero: ")
 
 let resp1 = n1*10
 let resp2 = n2*10
-
-if(n1+n2<10)
+if(n1+n2<10){console.log(resp1)}
+if(n1+n2<10){console.log(resp2)}
